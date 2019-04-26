@@ -1,0 +1,5 @@
+# -*- coding: utf-8 -*-
+
+[Section1]
+prenom1 = Un petit mot à l'attention de Youcef
+prenom2 = Un 2eme petit mot à l'attention de Youcef
